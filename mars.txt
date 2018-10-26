@@ -1,4 +1,7 @@
 cold and dry, but everything is my favorite color
 The two moons may be a problem for Wofman
 But the Mummy will appreciate he lack of humility
+*.dat
+!*.dat
+results/
 
